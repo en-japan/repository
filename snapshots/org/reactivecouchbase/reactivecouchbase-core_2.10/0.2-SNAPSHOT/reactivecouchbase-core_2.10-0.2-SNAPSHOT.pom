@@ -10,6 +10,25 @@
     <organization>
         <name>org.reactivecouchbase</name>
     </organization>
+    <url>http://reactivecouchbase.org</url>
+    <licenses>
+        <license>
+            <name>Apache 2</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <scm>
+        <url>git@github.com:ReactiveCouchbase/ReactiveCouchbase-core.git</url>
+        <connection>scm:git:git@github.com:ReactiveCouchbase/ReactiveCouchbase-core.git</connection>
+    </scm>
+    <developers>
+        <developer>
+            <id>mathieu.ancelin</id>
+            <name>Mathieu ANCELIN</name>
+            <url>https://github.com/mathieuancelin</url>
+        </developer>
+    </developers>
     <dependencies>
         <dependency>
             <groupId>org.scala-lang</groupId>
